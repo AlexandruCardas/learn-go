@@ -1,7 +1,7 @@
 package main
 
 import (
-	math "./utils"
+	math "../pkg"
 	"fmt"
 )
 
